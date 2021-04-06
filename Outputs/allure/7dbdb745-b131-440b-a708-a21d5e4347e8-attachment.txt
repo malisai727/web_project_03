@@ -1,0 +1,6 @@
+ERROR    root:basepage.py:102 在登录页面_输入用户名元素('xpath', '//input[@name="phone"]')上输入文本1868472055成功！
+NoneType: None
+ERROR    root:basepage.py:102 在登录页面_输入密码元素('xpath', '//input[@name="password"]')上输入文本python成功！
+NoneType: None
+ERROR    root:basepage.py:118 获取登录页面_获取登录表单错误提示信息元素('xpath', '//div[@class="form-error-info"]')文本成功！
+NoneType: None
